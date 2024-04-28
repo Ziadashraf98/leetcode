@@ -42,4 +42,4 @@ function getConcatenation($nums=null)
 }
 
 
-echo getConcatenation();
+getConcatenation();
